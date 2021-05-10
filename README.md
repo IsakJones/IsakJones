@@ -1,6 +1,5 @@
  - 👋 Hi, I’m @IsakJones.
  - 👀 I’m interested in using data to illustrate social issues.
- - 🌱 I’m currently learning how to use geographical visualization tools (plotly, Qgis).
  - 💞️ I’m looking to collaborate on any data science-related project!
  - 📫 You may contact me at isak.jones.980@gmail.com.
 
