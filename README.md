@@ -1,7 +1,13 @@
  - 👋 Hi, I’m @IsakJones.
- - 👀 I’m interested in using data to illustrate social issues.
- - 💞️ I’m looking to collaborate on any data science-related project!
+ - 👀 I’m an aspiring software engineer interested in the back-end.
+ - 💞️ I’m looking to collaborate on any API project, especially fintech-oriented ones!
+ - 🛠️ I'm currently working on:
+    - React with Javascript
+    - Flask with Python
+    - Algorithms & Data Structures with Java
+    - Learning Golang!
  - 📫 You may contact me at isak.jones.980@gmail.com.
+  
 
 <!---
 IsakJones/IsakJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
