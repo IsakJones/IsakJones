@@ -2,10 +2,9 @@
  - 👀 I’m an aspiring software engineer interested in the back-end.
  - 💞️ I’m looking to collaborate on any API project, especially fintech-oriented ones!
  - 🛠️ I'm currently working on:
-    - React with Javascript
-    - Flask with Python
-    - Algorithms & Data Structures with Java
-    - Learning Golang!
+    - Advent of Code in Haskell
+    - A Go payments API
+    - My upcoming personal website
  - 📫 You may contact me at isak.jones.980@gmail.com.
   
 
