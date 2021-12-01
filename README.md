@@ -1,6 +1,5 @@
  - 👋 Hi, I’m @IsakJones.
  - 👀 I’m an aspiring software engineer interested in the back-end.
- - 💞️ I’m looking to collaborate on any API project, especially fintech-oriented ones!
  - 🛠️ I'm currently working on:
     - Advent of Code in Haskell
     - A Go payments API
