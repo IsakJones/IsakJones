@@ -5,7 +5,7 @@ I graduated from university in 2021 with a degree in international relations and
 
 - 🌱 Currently learning: Haskell and Microservice Architectures
 - 🔨 Currently working on: [Polka payments](https://github.com/cdkini/qn), my own payments processor written from scratch
-- 💻 Passionate about functional programming, backend development, and [general computer science](https://teachyourselfcs.com/) knowledge
+- 💻 Passionate about functional programming, backend development, and [general computer science](https://teachyourselfcs.com/)
   
 
 <!---
