@@ -1,10 +1,18 @@
- - 👋 Hi, I’m @IsakJones.
- - 👀 I’m an aspiring software engineer interested in the back-end.
- - 🛠️ I'm currently working on:
-    - Advent of Code in Haskell
-    - A Go payments API
-    - My upcoming personal website
- - 📫 You may contact me at isak.jones.980@gmail.com.
+
+## Hi, I'm Isak 👋
+
+I graduated from university in 2021 with a degree in international relations and philosophy. After graduating and spending some time interning in a few foreign policy ventures, I've decided to pivot my career towards software development. I'm wrapping up a batch at the [Recurse Center](https://www.recurse.com/) and I'm currently looking for software engineering roles.
+
+🌱 Currently learning:
+ - Haskell
+ - Microservices architectures
+ - 
+
+
+
+- 🌱 Currently learning: Haskell and Microservice Architectures
+- 🔨 Currently working on: [Polka payments](https://github.com/cdkini/qn), my own payments processor written from scratch
+- 💻 Passionate about functional programming, backend development, and [general computer science](https://teachyourselfcs.com/) knowledge
   
 
 <!---
